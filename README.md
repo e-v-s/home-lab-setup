@@ -53,19 +53,37 @@ O laboratório foi projetado para ser **modular**, **seguro** e **reproduzível*
 ## Ferramentas Usadas
 
 ### Virtualização & OS
-[![Proxmox](https://img.shields.io/badge/Proxmox-EEA00F?logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Linux](https://img.shields.io/badge/Linux-black?logo=linux)](https://www.kernel.org/)
+<a href="https://www.proxmox.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Proxmox-EEA00F?logo=proxmox&logoColor=white" />
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+</a>
+<a href="https://www.kernel.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
+</a>
 
 ### Network & Segurança
-[![pfSense](https://img.shields.io/badge/pfSense-212121)](https://www.pfsense.org/)
-[![Networking](https://img.shields.io/badge/Networking-blue)](https://en.wikipedia.org/wiki/Computer_network)
-[![Firewall](https://img.shields.io/badge/Firewall-red)](https://en.wikipedia.org/wiki/Firewall_(computing))
+<a href="https://www.pfsense.org/" target="_blank">
+  <img src="https://img.shields.io/badge/pfSense-212121" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+  <img src="https://img.shields.io/badge/Networking-blue" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Firewall_(computing)" target="_blank">
+  <img src="https://img.shields.io/badge/Firewall-red" />
+</a>
 
 ### Segurança Defensiva & Ofensiva
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Flare VM](https://img.shields.io/badge/FlareVM-purple)](https://github.com/mandiant/flare-vm)
-[![REMnux](https://img.shields.io/badge/REMnux-blue)](https://docs.remnux.org/)
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white" />
+</a>
+<a href="https://github.com/mandiant/flare-vm" target="_blank">
+  <img src="https://img.shields.io/badge/FlareVM-purple" />
+</a>
+<a href="https://docs.remnux.org/" target="_blank">
+  <img src="https://img.shields.io/badge/REMnux-blue" />
+</a>
 
 ## Referências
 
