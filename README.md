@@ -53,19 +53,19 @@ O laboratório foi projetado para ser **modular**, **seguro** e **reproduzível*
 ## Ferramentas Usadas
 
 ### Virtualização & OS
-![Proxmox](https://img.shields.io/badge/Proxmox-EEA00F?logo=proxmox&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+[![Proxmox](https://img.shields.io/badge/Proxmox-EEA00F?logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/Linux-black?logo=linux)](https://www.kernel.org/)
 
 ### Network & Segurança
-![pfSense](https://img.shields.io/badge/pfSense-212121)
-![Networking](https://img.shields.io/badge/Networking-blue)
-![Firewall](https://img.shields.io/badge/Firewall-red)
+[![pfSense](https://img.shields.io/badge/pfSense-212121)](https://www.pfsense.org/)
+[![Networking](https://img.shields.io/badge/Networking-blue)](https://en.wikipedia.org/wiki/Computer_network)
+[![Firewall](https://img.shields.io/badge/Firewall-red)](https://en.wikipedia.org/wiki/Firewall_(computing))
 
 ### Segurança Defensiva & Ofensiva
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
-![Flare VM](https://img.shields.io/badge/FlareVM-purple)
-![REMnux](https://img.shields.io/badge/REMnux-blue)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Flare VM](https://img.shields.io/badge/FlareVM-purple)](https://github.com/mandiant/flare-vm)
+[![REMnux](https://img.shields.io/badge/REMnux-blue)](https://docs.remnux.org/)
 
 ## Referências
 
