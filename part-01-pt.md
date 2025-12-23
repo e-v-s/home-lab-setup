@@ -71,7 +71,7 @@ Iniciei a instalação do OS, clicando em *Install Ubuntu*. Na etapa de particio
 
 -> Erase disk and install Ubuntu
 
-A partirt deste ponto o sistema passou a ser instalado em uma base completamente limpa.
+A partir deste ponto o sistema passou a ser instalado em uma base completamente limpa.
 
 ---
 
