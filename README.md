@@ -22,7 +22,7 @@ O laboratório foi projetado para ser **modular**, **seguro** e **reproduzível*
 ## Architecture
 
 <p align="center">
-  <img src="./diagrams/diagrama-homelab.png" width="800">
+  <img src="./diagrams/diagrama-homelab-v02.png" width="800">
 </p>
 
 ### Zonas Lógicas
@@ -53,14 +53,17 @@ O laboratório foi projetado para ser **modular**, **seguro** e **reproduzível*
 ## Ferramentas Usadas
 
 ### Virtualização & OS
-<a href="https://www.proxmox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Proxmox-EEA00F?logo=proxmox&logoColor=white" />
+<a href="https://www.qemu.org/" target="_blank">
+  <img src="https://img.shields.io/badge/QEMU-000000?logo=qemu&logoColor=white" />
+</a>
+<a href="https://www.linux-kvm.org/" target="_blank">
+  <img src="https://img.shields.io/badge/KVM-00599C?logo=linux&logoColor=white" />
+</a>
+<a href="https://libvirt.org/" target="_blank">
+  <img src="https://img.shields.io/badge/libvirt-5A2D82?logo=libvirt&logoColor=white" />
 </a>
 <a href="https://ubuntu.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-</a>
-<a href="https://www.kernel.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
 </a>
 
 ### Network & Segurança
@@ -88,12 +91,19 @@ O laboratório foi projetado para ser **modular**, **seguro** e **reproduzível*
 ## Referências
 
 ### Documentação oficial
-- Proxmox VE — https://www.proxmox.com/en/proxmox-ve
+- QEMU — https://www.qemu.org/documentation/
+- KVM — https://www.linux-kvm.org/page/Documents
+- libvirt — https://libvirt.org/docs.html
 - pfSense Docs — https://docs.netgate.com/pfsense/en/latest/
 - Ubuntu Server — https://ubuntu.com/server/docs
 - Kali Linux — https://www.kali.org/docs/
 - FLARE VM — https://github.com/mandiant/flare-vm
 - REMnux — https://docs.remnux.org/
+
+---
+
+>Na próxima etapa, começo configurando o ambiente inicial.<br>
+>[Parte 01 - Preparando o laptop](./part-01-pt.md)
 
 ---
 
